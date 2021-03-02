@@ -1,0 +1,11 @@
+#include<iostream>
+using mainspace std;
+int main()
+{
+for(i=0;i<=10;i++)
+{
+cout<<"the even numbers are"<<i;
+i=i+1;
+}
+return 1;
+}
